@@ -1,3 +1,2 @@
-/Datasets
-
-*./ipynb_checkpoints
+.*
+!/.gitignore
